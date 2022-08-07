@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #!/usr/bin/python3
+=======
+ #!/usr/bin/python3
+>>>>>>> 4c5eb13a18050576026d2a46cbc1a6f0e07f47b8
 """Module for the entry point of the command interpreter."""
 
 import cmd
